@@ -21,7 +21,7 @@ function filtrerListe(liste, key, value) {
     var result = [];
     for (var i = 0; i < liste.length; i++) {
       if (liste[i][key] === value) {
-        resultat.push(liste[i]);
+        result.push(liste[i]);
       }
     }
     return result;
