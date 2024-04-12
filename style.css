@@ -3,7 +3,7 @@ body{
     padding: 0;
     display: flex;
     height: 100vh;
-    background-color: #f0f0f0;
+    background-color: #000b16;
 }
 
 .top{
@@ -30,5 +30,20 @@ img{
     height: 7%;
     width: auto;
     margin-top: 1%;
-    margin-left: 30%;
+    margin-left: 32%;
+}
+
+h1{
+    position: absolute;
+    color: aliceblue;
+    margin-left: 5%;
+    font-family: "Karantina", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+    margin-top:15px;
+}
+
+h1,img{
+    display: inline-block;
 }
