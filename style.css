@@ -14,7 +14,7 @@ body{
 }
 
 .menu{
-    background-color: #D80536;
+    background-color: #9e0025;
     position: absolute;
     height: 10%;
     width: 65%;
@@ -30,13 +30,13 @@ img{
     height: 7%;
     width: auto;
     margin-top: 1%;
-    margin-left: 32%;
+    margin-left: 39%;
 }
 
 h1{
     position: absolute;
     color: aliceblue;
-    margin-left: 5%;
+    margin-left: 2%;
     font-family: "Karantina", system-ui;
     font-weight: 400;
     font-style: normal;
@@ -46,4 +46,22 @@ h1{
 
 h1,img{
     display: inline-block;
+}
+
+.flag{
+    width: auto;
+    height: 50px;
+    margin-left: 1%;
+}
+
+li{
+    display: inline-block;
+}
+
+ul{
+    list-style-type:none;
+}
+
+#al,#us,#ru{
+    margin-left: 50px;
 }

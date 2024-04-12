@@ -1,21 +1,4 @@
-const tank=[
-    {
-        name: "ELC bis",
-        poid: "8.5",
-        canon: "90mm",
-        chevaux: "180"
-    },{
-        name: "AMX-13",
-        poid: "14.8",
-        canon: "75mm",
-        chevaux: "250"
-    },{
-        name: "LORRAINE 40T",
-        poid: "39.7",
-        canon: "100mm",
-        chevaux: "850"
-    }
-]
+const link="https://api.worldoftanks.eu/wot/encyclopedia/tanks/"
 
 function filtrerListe(liste, key, value) {
     var result = [];
@@ -42,3 +25,5 @@ function filtrerListe(liste, key, value) {
       }
     return result;
   }
+
+  searchName
