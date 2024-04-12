@@ -65,3 +65,22 @@ ul{
 #al,#us,#ru{
     margin-left: 50px;
 }
+
+#carrousel {
+    width: 48%;
+    height: 48%;
+    border: solid 4px #9e0025;
+    position: absolute;
+    margin-left: 26%;
+    margin-top: 15%;
+}
+
+#container_images {
+    width: 48%;
+    height: 48%;
+}
+
+.button {
+    position: absolute;
+    cursor: pointer;
+}
