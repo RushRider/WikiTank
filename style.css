@@ -68,7 +68,7 @@ ul{
 
 #carrousel {
     width: 48%;
-    height: 48%;
+    height: 55%;
     border: solid 4px #9e0025;
     position: absolute;
     margin-left: 26%;
@@ -81,7 +81,30 @@ ul{
 }
 
 .button {
+    margin-top: 0%;
     position: absolute;
     cursor: pointer;
-    z
+}
+
+#left_arrow {
+    margin-left: 95%;
+}
+
+#right_arrow {
+    transform: rotate(3.142rad);
+    margin-left: 1%;
+}
+
+#right_arrow:hover {
+    filter: contrast(50%);
+}
+
+#left_arrow:hover {
+    filter: contrast(50%);
+}
+
+#carou {
+    width: 208%;
+    height: 208%;
+    margin: 0.07%;
 }
