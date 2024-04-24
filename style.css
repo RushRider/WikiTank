@@ -6,12 +6,15 @@ body{
     background-color: #000b16;
 }
 
-.top{
+.top {
     background-color: #2B2E42;
-    height: 100%;
+    position: fixed;
+    top: 0;
+    bottom: 0; 
     width: 65%;
     margin-left: 17.5%;
 }
+
 
 .menu{
     background-color: #9e0025;
@@ -108,3 +111,4 @@ ul{
     height: 208%;
     margin: 0.07%;
 }
+

@@ -15,7 +15,10 @@ fetch(url)
       var html = `
         <div class="content">
           <h2>${item.nom}</h2>
-          <p>${item.nom}</p>
+          <p>${item.poids}</p>
+          <p>${item.vitesse_max}</p>
+          <p>${item.armement_principal}</p>
+          <p>${item.description}</p>
         </div>
       `;
       test.innerHTML += html;
