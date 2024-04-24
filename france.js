@@ -9,10 +9,16 @@ fetch(url)
     return response.json();
   })
   .then(jsonData => {
-    var data = Object.entries(jsonData);
-    console.log(data);
     var test = document.getElementById("test");
-    test.innerHTML = JSON.stringify(data);
+    for(let item of jsonData ) {
+      console.log(item);
+      var html = `
+        <div>
+          <h2>${item.nom}</h2>
+        </div>
+      `;
+      test.innerHTML += html;
+  }
   })
   .catch(error => {
     console.error('Erreur :', error);
