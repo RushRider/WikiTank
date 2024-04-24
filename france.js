@@ -13,8 +13,9 @@ fetch(url)
     for(let item of jsonData ) {
       console.log(item);
       var html = `
-        <div>
+        <div class="content">
           <h2>${item.nom}</h2>
+          <p>${item.nom}</p>
         </div>
       `;
       test.innerHTML += html;
