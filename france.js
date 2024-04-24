@@ -33,7 +33,7 @@ fetch(url)
         const vitesseB = parseFloat(b.vitesse_max.split(" ")[0]);
         return vitesseA - vitesseB;
       });
-      display(chars);
+      display();
     
   })
   .catch(error => {
