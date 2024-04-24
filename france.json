@@ -1,0 +1,63 @@
+[
+    {
+      "nom": "AMX-30",
+      "pays": "France",
+      "équipage": 4,
+      "poids": "36 tonnes",
+      "vitesse_max": "65 km/h",
+      "armement_principal": "Canon de 105 mm",
+      "année_de_production": "1966-1985",
+      "description": "L'AMX-30 était un char de combat principal français développé dans les années 1960. Il était en service dans l'armée française ainsi que dans plusieurs autres armées à travers le monde. Il était connu pour sa mobilité et son canon puissant."
+    },
+    {
+      "nom": "Leclerc",
+      "pays": "France",
+      "équipage": 3,
+      "poids": "54 tonnes",
+      "vitesse_max": "72 km/h",
+      "armement_principal": "Canon de 120 mm",
+      "année_de_production": "1992-présent",
+      "description": "Le Leclerc est le char de combat principal actuel de l'armée française. Il a été développé dans les années 1980 et est en service depuis les années 1990. Il est réputé pour sa mobilité, sa protection avancée et son système d'armes."
+    },
+    {
+      "nom": "Renault FT",
+      "pays": "France",
+      "équipage": 2,
+      "poids": "6,5 tonnes",
+      "vitesse_max": "7 km/h",
+      "armement_principal": "Canon de 37 mm",
+      "année_de_production": "1917-1940",
+      "description": "Le Renault FT était un char léger français largement utilisé pendant la Première Guerre mondiale et les années qui ont suivi. Il était le premier char à être équipé d'une tourelle pivotante à 360 degrés, ce qui en faisait un design révolutionnaire pour son époque."
+    },
+    {
+      "nom": "AMX-13",
+      "pays": "France",
+      "équipage": 3,
+      "poids": "15 tonnes",
+      "vitesse_max": "60 km/h",
+      "armement_principal": "Canon de 75 mm",
+      "année_de_production": "1953-1985",
+      "description": "L'AMX-13 était un char léger français développé dans les années 1950. Il était utilisé pour divers rôles, y compris comme char de reconnaissance. Sa conception compacte et sa mobilité en ont fait un choix populaire parmi de nombreuses armées."
+    },
+    {
+      "nom": "Char B1",
+      "pays": "France",
+      "équipage": 4,
+      "poids": "28 tonnes",
+      "vitesse_max": "28 km/h",
+      "armement_principal": "Canon de 47 mm",
+      "année_de_production": "1934-1940",
+      "description": "Le Char B1 était un char lourd français développé dans les années 1930. Il était bien blindé et armé pour son époque, mais il était relativement lent et avait des limitations en termes de mobilité. Malgré cela, il a joué un rôle important dans les premières phases de la Seconde Guerre mondiale."
+    },
+    {
+      "nom": "AMX-56 Leclerc T4",
+      "pays": "France",
+      "équipage": 3,
+      "poids": "55 tonnes",
+      "vitesse_max": "72 km/h",
+      "armement_principal": "Canon de 120 mm",
+      "année_de_production": "2020-présent",
+      "description": "Le Leclerc T4 est une version améliorée du char Leclerc, entrée en service dans les années 2020. Il bénéficie de nombreuses améliorations technologiques par rapport à son prédécesseur, notamment en termes de système de visée et de protection."
+    }
+  ]
+  

@@ -1,0 +1,63 @@
+[
+    {
+      "nom": "M4 Sherman",
+      "pays": "États-Unis",
+      "équipage": 5,
+      "poids": "30 tonnes",
+      "vitesse_max": "38 km/h",
+      "armement_principal": "Canon de 75 mm ou 76 mm",
+      "année_de_production": "1942-1955",
+      "description": "Le M4 Sherman était le char principal utilisé par les États-Unis et plusieurs autres Alliés pendant la Seconde Guerre mondiale. Il était produit en grand nombre et utilisé dans divers rôles, y compris comme char de combat, char de soutien à l'infanterie et char de reconnaissance."
+    },
+    {
+      "nom": "M1 Abrams",
+      "pays": "États-Unis",
+      "équipage": 4,
+      "poids": "63-68 tonnes",
+      "vitesse_max": "67 km/h",
+      "armement_principal": "Canon de 120 mm",
+      "année_de_production": "1980-présent",
+      "description": "Le M1 Abrams est le char de combat principal actuel de l'armée américaine. Il est réputé pour sa puissance de feu, sa mobilité et sa protection avancée. Depuis son introduction, il a été constamment amélioré pour rester à la pointe de la technologie."
+    },
+    {
+      "nom": "M3 Lee",
+      "pays": "États-Unis",
+      "équipage": 6,
+      "poids": "27 tonnes",
+      "vitesse_max": "38 km/h",
+      "armement_principal": "Canon de 75 mm",
+      "année_de_production": "1941-1942",
+      "description": "Le M3 Lee était un char de combat américain utilisé au début de la Seconde Guerre mondiale. Il était conçu avec une tourelle fixe équipée d'un canon et d'une casemate avec un canon plus puissant. Bien qu'il ait été largement utilisé, il était rapidement obsolète sur les champs de bataille européens."
+    },
+    {
+      "nom": "M60 Patton",
+      "pays": "États-Unis",
+      "équipage": 4,
+      "poids": "49-54 tonnes",
+      "vitesse_max": "48 km/h",
+      "armement_principal": "Canon de 105 mm",
+      "année_de_production": "1960-1987",
+      "description": "Le M60 Patton était le char de combat principal de l'armée américaine pendant la guerre froide. Il était largement utilisé par l'OTAN et d'autres alliés. Bien qu'il ait été progressivement remplacé par le M1 Abrams, il a continué de servir dans de nombreuses armées jusqu'à récemment."
+    },
+    {
+      "nom": "M26 Pershing",
+      "pays": "États-Unis",
+      "équipage": 5,
+      "poids": "41 tonnes",
+      "vitesse_max": "40 km/h",
+      "armement_principal": "Canon de 90 mm",
+      "année_de_production": "1944-1945",
+      "description": "Le M26 Pershing était un char lourd américain utilisé à la fin de la Seconde Guerre mondiale et pendant la guerre de Corée. Il était conçu pour affronter les chars lourds allemands tels que le Tiger II. Bien qu'il ait été produit en petit nombre, il a joué un rôle important dans la transition vers les chars lourds modernes."
+    },
+    {
+      "nom": "M48 Patton",
+      "pays": "États-Unis",
+      "équipage": 4,
+      "poids": "52 tonnes",
+      "vitesse_max": "48 km/h",
+      "armement_principal": "Canon de 90 mm ou 105 mm",
+      "année_de_production": "1952-1961",
+      "description": "Le M48 Patton était un char de combat américain développé après la Seconde Guerre mondiale. Il a été utilisé pendant la guerre du Vietnam et dans d'autres conflits de la guerre froide. Il était connu pour sa fiabilité et sa polyvalence."
+    }
+  ]
+  

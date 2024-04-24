@@ -1,0 +1,63 @@
+[
+    {
+      "nom": "T-34",
+      "pays": "Russie",
+      "équipage": 4,
+      "poids": "26-30 tonnes",
+      "vitesse_max": "55 km/h",
+      "armement_principal": "Canon de 76 mm",
+      "année_de_production": "1940-1958",
+      "description": "Le T-34 était un char emblématique de l'Union soviétique pendant la Seconde Guerre mondiale. Il était largement considéré comme l'un des meilleurs chars de son époque en raison de son bon équilibre entre blindage, puissance de feu et mobilité. Il a joué un rôle majeur dans la victoire soviétique sur le front de l'Est."
+    },
+    {
+      "nom": "T-72",
+      "pays": "Russie",
+      "équipage": 3,
+      "poids": "41-46 tonnes",
+      "vitesse_max": "60 km/h",
+      "armement_principal": "Canon de 125 mm",
+      "année_de_production": "1971-présent",
+      "description": "Le T-72 est l'un des chars les plus répandus au monde, produit en grand nombre par l'Union soviétique puis par la Russie. Il a été exporté vers de nombreux pays et a été utilisé dans de nombreux conflits. Malgré sa conception datant des années 1970, il reste un char redoutable sur le champ de bataille."
+    },
+    {
+      "nom": "T-90",
+      "pays": "Russie",
+      "équipage": 3,
+      "poids": "46-48 tonnes",
+      "vitesse_max": "65 km/h",
+      "armement_principal": "Canon de 125 mm",
+      "année_de_production": "1993-présent",
+      "description": "Le T-90 est un char de combat principal russe moderne, basé sur le T-72 mais avec de nombreuses améliorations. Il est équipé d'un canon plus puissant, d'une meilleure protection et de systèmes électroniques plus avancés. Il est actuellement en service dans l'armée russe et a été exporté vers plusieurs autres pays."
+    },
+    {
+      "nom": "T-14 Armata",
+      "pays": "Russie",
+      "équipage": 3,
+      "poids": "48 tonnes",
+      "vitesse_max": "80 km/h",
+      "armement_principal": "Canon de 125 mm",
+      "année_de_production": "2015-présent",
+      "description": "Le T-14 Armata est le char de combat principal le plus récent et le plus avancé de la Russie. Il est doté d'une tourelle inhabitée, ce qui réduit le risque pour l'équipage en cas d'impact direct. Il est équipé de technologies de pointe en matière de protection, de communication et de visée."
+    },
+    {
+      "nom": "KV-1",
+      "pays": "Russie",
+      "équipage": 5,
+      "poids": "45-47 tonnes",
+      "vitesse_max": "35 km/h",
+      "armement_principal": "Canon de 76,2 mm",
+      "année_de_production": "1939-1943",
+      "description": "Le KV-1 était un char lourd soviétique utilisé pendant la Seconde Guerre mondiale. Il était remarquable pour son épais blindage, qui le rendait difficile à détruire pour les chars allemands de l'époque. Bien qu'il ait été relativement lent, il était efficace dans les rôles défensifs et de soutien à l'infanterie."
+    },
+    {
+      "nom": "T-80",
+      "pays": "Russie",
+      "équipage": 3,
+      "poids": "46-49 tonnes",
+      "vitesse_max": "70 km/h",
+      "armement_principal": "Canon de 125 mm",
+      "année_de_production": "1976-présent",
+      "description": "Le T-80 est un char de combat principal russe qui a été le premier à être équipé d'une turbine à gaz. Cela lui donne une excellente puissance spécifique et une vitesse élevée. Bien qu'il ait été largement utilisé dans l'armée russe, il a été remplacé progressivement par le T-90 et le T-14 Armata dans de nombreux rôles."
+    }
+  ]
+  

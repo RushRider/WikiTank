@@ -1,0 +1,63 @@
+[
+    {
+      "nom": "Panzer IV",
+      "pays": "Allemagne",
+      "équipage": 5,
+      "poids": "25 tonnes",
+      "vitesse_max": "42 km/h",
+      "armement_principal": "Canon de 75 mm",
+      "année_de_production": "1936-1945",
+      "description": "Le Panzer IV était l'un des chars principaux de l'Allemagne nazie pendant la Seconde Guerre mondiale. Il a été conçu à l'origine pour être un char de soutien à l'infanterie, mais il a été constamment amélioré et utilisé dans divers rôles tout au long de la guerre."
+    },
+    {
+      "nom": "Tigre I",
+      "pays": "Allemagne",
+      "équipage": 5,
+      "poids": "57 tonnes",
+      "vitesse_max": "38 km/h",
+      "armement_principal": "Canon de 88 mm",
+      "année_de_production": "1942-1944",
+      "description": "Le Tigre I était l'un des chars lourds les plus redoutés de la Seconde Guerre mondiale. Avec son épais blindage frontal et son puissant canon, il était redoutable sur le champ de bataille. Cependant, sa complexité de fabrication et sa mobilité limitée ont posé des défis logistiques pour l'armée allemande."
+    },
+    {
+      "nom": "Panther",
+      "pays": "Allemagne",
+      "équipage": 5,
+      "poids": "44-48 tonnes",
+      "vitesse_max": "55 km/h",
+      "armement_principal": "Canon de 75 mm ou 88 mm",
+      "année_de_production": "1943-1945",
+      "description": "Le Panther était un char moyen allemand développé en réponse aux chars soviétiques et américains rencontrés sur le front de l'Est. Il était bien blindé, rapide et équipé d'un canon puissant, ce qui en faisait une menace redoutable pour les chars alliés."
+    },
+    {
+      "nom": "Leopard 2",
+      "pays": "Allemagne",
+      "équipage": 4,
+      "poids": "55 tonnes",
+      "vitesse_max": "72 km/h",
+      "armement_principal": "Canon de 120 mm",
+      "année_de_production": "1979-présent",
+      "description": "Le Leopard 2 est le char de combat principal actuel de l'armée allemande, largement reconnu comme l'un des meilleurs chars au monde. Il est réputé pour sa mobilité, sa protection avancée et son canon précis."
+    },
+    {
+      "nom": "Tiger II (Königstiger)",
+      "pays": "Allemagne",
+      "équipage": 5,
+      "poids": "68 tonnes",
+      "vitesse_max": "38 km/h",
+      "armement_principal": "Canon de 88 mm",
+      "année_de_production": "1944-1945",
+      "description": "Le Tiger II, également connu sous le nom de Königstiger, était un char lourd allemand de la fin de la Seconde Guerre mondiale. Avec son épais blindage et son puissant canon, il était redoutable sur le champ de bataille, mais sa complexité de fabrication et sa consommation de carburant élevée étaient des inconvénients."
+    },
+    {
+      "nom": "Leopard 1",
+      "pays": "Allemagne",
+      "équipage": 4,
+      "poids": "40 tonnes",
+      "vitesse_max": "65 km/h",
+      "armement_principal": "Canon de 105 mm",
+      "année_de_production": "1965-1985",
+      "description": "Le Leopard 1 était le char de combat principal de l'armée allemande pendant de nombreuses années. Il était connu pour sa mobilité, sa fiabilité et sa facilité d'entretien. Bien qu'il soit maintenant retiré du service actif, il a été largement exporté et a servi dans de nombreuses armées à travers le monde."
+    }
+  ]
+  

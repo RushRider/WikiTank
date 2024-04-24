@@ -27,3 +27,9 @@ function filtrerListe(liste, key, value) {
   }
 
   searchName
+
+
+// https://api-console.worldoftanks.com/wotx/encyclopedia/vehicles/?language=fr&nation=france
+// https://api-console.worldoftanks.com/wotx/encyclopedia/vehicles/?language=fr&nation=deutschland
+// https://api-console.worldoftanks.com/wotx/encyclopedia/vehicles/?language=fr&nation=america
+// https://api-console.worldoftanks.com/wotx/encyclopedia/vehicles/?language=fr&nation=russia
