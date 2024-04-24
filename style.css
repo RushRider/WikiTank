@@ -112,3 +112,19 @@ ul{
     margin: 0.07%;
 }
 
+.content {
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 3%;
+    color: aliceblue;
+    font-family: "Karantina", system-ui;
+    font-size: 140%;
+}
+
+.content * {
+    margin-bottom: 3%;
+}
+
+.content h2 {
+    color: #ff003c;
+}
