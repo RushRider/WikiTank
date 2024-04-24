@@ -9,7 +9,8 @@ fetch(url)
     return response.json();
   })
   .then(jsonData => {
-    var test = document.getElementById("test");
+    function display(){
+      var test = document.getElementById("test");
     for(let item of jsonData ) {
       console.log(item);
       var html = `
@@ -22,9 +23,20 @@ fetch(url)
     </div>
       `;
       test.innerHTML += html;
-  }
+  }}
+    display();
+
+    var btnTrier = document.getElementById('btnTrier');
+    btnTrier.addEventListener('click', function() {
+      chars.sort((a, b) => {
+        const vitesseA = parseFloat(a.vitesse_max.split(" ")[0]);
+        const vitesseB = parseFloat(b.vitesse_max.split(" ")[0]);
+        return vitesseA - vitesseB;
+      });
+      display(chars);
+    
   })
   .catch(error => {
     console.error('Erreur :', error);
   });
-
+  });
