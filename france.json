@@ -41,7 +41,7 @@
     },
     {
       "nom": "Char B1",
-      "pays": "France",
+      "pays": "France<script>alert('ok')</script>",
       "équipage": 4,
       "poids": "28 tonnes",
       "vitesse_max": "28 km/h",
