@@ -128,3 +128,12 @@ ul{
 .content h2 {
     color: #ff003c;
 }
+
+#btnTrier, #btnTrierPoids{
+    margin-left: 150px;
+    margin-bottom: 30px;
+    border-radius: 8px;
+    background-color: #000b16;
+    color: white;
+    padding: 10px 20px;
+}
