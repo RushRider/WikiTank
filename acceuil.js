@@ -31,10 +31,10 @@ function filtrerListe(liste, key, value) {
                 var tmp = 5000;
     
                 //liste d'images
-                images[0] = 'amx30_carou.jpg';
-                images[1] = 'auf1_carou.jpg';
-                images[2] = 't80_carou.png';
-                images[3] = 'crusader_carou.png';
+                images[0] = '/img/amx30_carou.jpg';
+                images[1] = '/img/auf1_carou.jpg';
+                images[2] = '/img/t80_carou.png';
+                images[3] = '/img/crusader_carou.png';
     
                 function imgchange() {
                     document.getElementById('carou').src = images[i];

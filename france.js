@@ -1,4 +1,4 @@
-var url = 'france.json';
+var url = 'jsons/france.json';
 
 function display(jsonData) {
     var test = document.getElementById("test");

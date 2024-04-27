@@ -1,5 +1,5 @@
 // var url = 'https://api-console.worldoftanks.com/wotx/encyclopedia/vehicles/?language=fr&nation=france';
-var url = 'amerique.json';
+var url = 'jsons/amerique.json';
 
 function display(jsonData) {
     var test = document.getElementById("test");
